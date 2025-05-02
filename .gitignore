@@ -17,6 +17,9 @@ ipython_config.py
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
 
+# Remove previous virtual_documents
+#   git rm -r .virtual_documents/
+
 ### macOS ###
 # General
 .DS_Store
