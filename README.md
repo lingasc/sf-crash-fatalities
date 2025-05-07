@@ -52,13 +52,13 @@ This folder contains data visualizations created during our data exploration, wh
 
 **other:**  
 
-- [Slides: Economic Narratives Generator](./slide/Economic\Narratives\Generator.pdf)
+- [Slides](/slides.pdf)
 
 - README.md - The file you are reading right now. It contains the summaries, techniques used, data visualizations, conclusions, recommended next steps, and appendix of our project.
 
 ---
 
-# Appendix  
+# Sources  
 [More about Vision Zero](https://www.visionzerosf.org/maps-data/)
   
 [gitignore Template Maker](https://www.toptal.com/developers/gitignore/api/jupyternotebooks,macos,virtualenv,windows)  
