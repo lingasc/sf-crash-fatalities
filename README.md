@@ -27,6 +27,7 @@ This folder contains several notebooks dedicated to creating a model to address 
 - Notebook [01](./code/01-eda-fatalities.ipynb) is where I collected and cleaned data.
 - Notebook [02](./code/02-data-viz-fatalities.ipynb) is where I visualized the findings of the [cleaned data](./data/cleaned_fatalities.csv).
 - Notebook [03](./code/03-model-fit-train-eval.ipynb) is where I developed, fit, trained, and validated my ML model.
+- Notebook [04](./code/04-findings-tech-report.ipynb) contains my Executive Summary as well as summaries of my findings from my data analysis and my modeling process.
 
 **data:**  
 This folder contains the datasets used to develop my model.
