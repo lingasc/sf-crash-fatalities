@@ -1,0 +1,16 @@
+Unnamed: 0.1,Unnamed: 0,Feature,Importance
+0,24,collision_type_Pedestrian vs Motor Vehicle,0.7770358273514119
+1,14,collision_type_Motor Vehicle & Pedestrian,0.0427904976581938
+2,25,collision_type_Pedestrian vs Motorcycle,0.0407807895451366
+3,0,age,0.0395756360173766
+4,23,collision_type_Pedestrian vs LRV,0.0341144677509808
+5,19,collision_type_Pedestrian Collision,0.0166218345819679
+6,26,collision_type_Pedestrian vs. MUNI,0.0162910298007697
+7,15,collision_type_Motor Vehicle Collision,0.0096857418375575
+8,21,collision_type_Pedestrian vs Bus (Paratransit),0.0081655508252285
+9,22,collision_type_Pedestrian vs Cable Car,0.0078585954356065
+10,6,time_of_day_Afternoon (12pm-5pm),0.0042371456691244
+11,64,analysis_neighborhood_South of Market,0.0012741027720354
+12,33,age_category_Senior (65+),0.0005204111143794
+13,1,collision_year_clean,0.00027348404932
+14,2,collision_hour,0.0002290736752433
